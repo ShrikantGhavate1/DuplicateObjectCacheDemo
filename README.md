@@ -14,7 +14,7 @@ This is a sample .NET Framework 4.8 console application that demonstrates object
 
 ## Technologies
 
-- .NET Framework 4.8
+- .NET Framework 8
 - C#
 - xUnit (Unit Testing Framework)
 - Newtonsoft.Json (for object serialization)
